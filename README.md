@@ -16,6 +16,5 @@ push on off switch ($2.12) : https://www.aliexpress.com/item/1005006370536493.ht
 
 usbc extension cable ($3.85) : https://www.aliexpress.com/item/1005004631410233.html?spm=a2g0o.productlist.main.10.680b6266ypINa6&algo_pvid=44b14c3d-6ec3-400e-ac4b-116e4e1d1feb&algo_exp_id=44b14c3d-6ec3-400e-ac4b-116e4e1d1feb-9&pdp_ext_f=%7B"order"%3A"3836"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21GBP%212.89%212.89%21%21%2125.42%2125.42%21%400b884c0217848220212951371e10dc%2112000029904157176%21sea%21UK%217780845038%21X%211%210%21n_tag%3A-29919%3Bd%3A375bfd2e%3Bm03_new_user%3A-29895&curPageLogUid=2uTEMlqmK2BN&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004631410233%7C_p_origin_prod%3A
 
-basswood ($11.88) : https://www.aliexpress.com/item/1005008584160715.html?spm=a2g0o.productlist.main.1.5ab66d96OQ4SaO&algo_pvid=d4d3940a-5332-443a-837e-c3b81103dbbb&algo_exp_id=d4d3940a-5332-443a-837e-c3b81103dbbb-0&pdp_ext_f=%7B"order"%3A"63"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21GBP%2118.19%218.92%21%21%21159.94%2178.37%21%400b88489f17848222009297115e1124%2112000045834572136%21sea%21UK%217780845038%21X%211%210%21n_tag%3A-29919%3Bd%3A375bfd2e%3Bm03_new_user%3A-29895&curPageLogUid=xea8kAsTu8r7&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008584160715%7C_p_origin_prod%3A
 
-Total Price (including shipping) : $77.10
+Total Price (including shipping) : $65.22
