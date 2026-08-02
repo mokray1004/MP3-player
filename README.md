@@ -18,3 +18,9 @@ usbc extension cable ($3.85) : https://www.aliexpress.com/item/1005004631410233.
 
 
 Total Price (including shipping) : $65.22
+
+
+wiring diagram:
+
+<img width="3456" height="4608" alt="IMG_0934" src="https://github.com/user-attachments/assets/f6859807-5c2c-477b-ba92-556a49a29c9f" />
+
